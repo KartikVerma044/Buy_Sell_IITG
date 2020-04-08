@@ -22,6 +22,7 @@ Reponsibilities-
 Frontend-
 1. Vineet Agarwal
 2. Harshit Sureka
+3. Mohit Singh
 
 Backend-
 1. Kartik Verma
