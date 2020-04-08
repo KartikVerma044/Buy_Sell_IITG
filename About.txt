@@ -1,0 +1,18 @@
+This is a buy and sell project we are going to do for IITG.We are going to provide the following features:
+Buy-
+1.Special categories like cycles,books,stationary,
+
+Team Members are-
+1. Vineet Agarwal
+2. Kartik Verma
+3. Harshit Sureka 
+4. Mohit Singh
+
+Reponsibilities-
+
+Frontend-
+1. Vineet Agarwal
+2. Harshit Sureka
+
+Backend-
+1. Kartik Verma
