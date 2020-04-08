@@ -1,6 +1,15 @@
-This is a buy and sell project we are going to do for IITG.We are going to provide the following features:
+This is a buy and sell project we are going to do for IITG.We are going to provide a website with no login feature and the following features:
+
 Buy-
-1.Special categories like cycles,books,stationary,
+1. Special categories like cycles,books,stationary(ed kits,lab coats) and miscellaneous.
+2. Seller's name,contact details,address,etc.
+
+Sell-
+1. Item photos 
+2. Proposed price 
+3. Contact details and address
+
+
 
 Team Members are-
 1. Vineet Agarwal
