@@ -17,12 +17,4 @@ Team Members are-
 3. Harshit Sureka 
 4. Mohit Singh
 
-Reponsibilities-
 
-Frontend-
-1. Vineet Agarwal
-2. Harshit Sureka
-3. Mohit Singh
-
-Backend-
-1. Kartik Verma
